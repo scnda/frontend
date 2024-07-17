@@ -1,0 +1,26 @@
+.intro {
+    height: 100vh;
+    background-image: url('../assets/images/images/bg/main.webp');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.trending {
+    background-image: url('../assets/images/images/bg/scifi.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.superhero {
+    background-image: url('../assets/images/images/bg/romance.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.tombol {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
